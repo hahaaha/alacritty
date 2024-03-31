@@ -2,8 +2,8 @@ live_config_reload = true
 
 [window]
 opacity =  0.9
-decorations = "Buttonless"
-padding= {x = 10, y= 10}
+decorations = "Transparent"
+padding= {x = 10, y= 60}
 option_as_alt = "OnlyLeft"
 
 [font]
