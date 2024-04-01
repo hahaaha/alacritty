@@ -7,8 +7,5 @@ padding= {x = 10, y= 10}
 option_as_alt = "OnlyLeft"
 
 [font]
-size = 16
-normal = { family = "Hack Nerd Font Mono", style = "Regular" }
-
-
-
+size = 18
+normal = { family = "Hack Nerd Font", style = "Regular" }
