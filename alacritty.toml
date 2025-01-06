@@ -1,3 +1,4 @@
+[general]
 live_config_reload = true
 
 [env]
@@ -11,4 +12,5 @@ option_as_alt = "OnlyLeft"
 
 [font]
 size = 18
-normal = { family = "Hack Nerd Font", style = "Regular" }
+# normal = { family = "MesloLGS NF", style = "Regular" }
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
